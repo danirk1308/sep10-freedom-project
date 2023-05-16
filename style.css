@@ -17,3 +17,9 @@ text-align: center;
 h1 u{
 text-align: center;
 }
+.box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    display: inline-block;
+}
