@@ -294,7 +294,7 @@ kbd {
   background-color: var(--bs-body-color);
   border-radius: 0.25rem;
 }
-kbd kbd {
+kbd, kbd {
   padding: 0;
   font-size: 1em;
 }
@@ -11556,4 +11556,8 @@ textarea.form-control-lg {
   height: 4rem;
   width: 4rem;
   font-size: 2rem;
+}
+
+image {
+  width: 100%;
 }
